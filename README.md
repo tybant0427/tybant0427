@@ -1,10 +1,5 @@
 ### :alien: Greetings :alien:
 
-
-
-
-
-
 - 🔭 I’m currently attending ... U of M full stack software dev bootcamp  
 - 🌱 I’m currently learning ... React 
 - 👯 I’m looking to collaborate on ... Anything! practice makes perfect. 
@@ -12,3 +7,12 @@
 - 💬 Ask me about ... coding!
 - 📫 How to reach me: ... tyler.bantley@icloud.com
 - ⚡ Fun fact: ... I have 2 corgis 
+
+
+https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+## Github stats
+
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tybant0427&show_icons=true&theme=cobalt)
+
+
+
