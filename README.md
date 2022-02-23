@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ... I have 2 corgis 
 
 
-https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+
 ## Github stats
 
 ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tybant0427&show_icons=true&theme=cobalt)
