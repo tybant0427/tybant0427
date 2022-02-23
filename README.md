@@ -1,16 +1,14 @@
-### Hi there 👋
+### :alien: Greetings :alien:
 
-<!--
-**tybant0427/tybant0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently attending ... U of M full stack software dev bootcamp  
+- 🌱 I’m currently learning ... React 
+- 👯 I’m looking to collaborate on ... Anything! practice makes perfect. 
+- 🤔 I’m looking for help with ... any and everything web development. 
+- 💬 Ask me about ... coding!
+- 📫 How to reach me: ... tyler.bantley@icloud.com
+- ⚡ Fun fact: ... I have 2 corgis 
