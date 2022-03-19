@@ -1,7 +1,7 @@
 ### :alien: Greetings :alien:
 
 - 🔭 I've graduated ... U of M full stack development bootcamp  
-- 🌱 I’m currently learning ... Java 
+- 🌱 I’m currently learning ... React 
 - 👯 I’m looking to collaborate on ... Anything! practice makes perfect. 
 - 🤔 I’m looking for help with ... any and everything web development. 
 - 💬 Ask me about ... coding!
